@@ -2,7 +2,7 @@
 Neural vocoder generates audible waveforms from acoustic representations, which is one of the key parts for current audio generation systems.
 
 **GAN-based vocoders**: 
-1. [MelGAN] (https://arxiv.org/abs/1910.06711)
+1. [MelGAN](https://arxiv.org/abs/1910.06711)
 2. HiFi-GAN
 4. BigVGAN
 5. APNet
